@@ -38,12 +38,12 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
+  algolia_search    = false
   algolia_appId     = "45CEN6X6AT"
   algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
   algolia_indexName = "bilberry-hugo-theme"
     # Set this option to false if you want to search within all articles in all languages at once
-    algolia_currentLanguageOnly = true
+    algolia_currentLanguageOnly = false
 
   # Enable / Disable comments on the articles via commento
   #commentoJsURL = "https://commento.lednerb.de/js/commento.js"
@@ -85,7 +85,7 @@ disqusShortname = ""
     # pinOnlyToFirstPage = true
 
     # enable automatical localization of the article's PublishedDate with momentjs
-    enableMomentJs = true
+    enableMomentJs = false
 
     # customize the date format | only works if momentjs is disabled | only works with English month names
     # you can customize it with the options you find here:
