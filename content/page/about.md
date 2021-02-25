@@ -1,24 +1,16 @@
----
-title: "About"
-date: 2017-11-01T13:18:45+01:00
-excludeFromTopNav: false
-showDate: false
----
-Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
++++
+title = "About"
+draft = false
+weight = 200
+excludeFromTopNav = false
+showDate = false
++++
 
-It is full of little nice features, such as:
+Welcome to yet another blog!
 
-- built-in integration for the wonderful [algolia search](https://algolia.com)
-- built-in integration for the powerful [disqus comments](https://disqus.com)
-- gravatar and custom image integration for the header
-- keyboard shortcut for the search (press the `s` key, type something and hit `enter` or `esc`)
-- responsive design - optimized for desktop and mobile devices
-- full internationalization (i18n) support (en, de, fr, ru, es out of the box!)
-- full mutli-language support
-- custom post types (`article`, `audio`, `code`, `gallery`, `link`, `page`, `picture`, `quote`, `video`)
-    - easy configuration to add more according to your needs
+Here I will share unfinished thoughts, weird conclusions and jumpy tech guides.
+I will ventilate some unconventional opinion's as well.
 
+If you disliked something, it planted some half pleasant seed or you lost a part of your soul. I will not be held responsible!
 
-*This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
-
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+Ye be warned!
