@@ -1,5 +1,5 @@
 title = "Welcome to Applerworld"
-baseURL = "https://blog.applerworld.com/"
+baseURL = "/"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
@@ -28,7 +28,7 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Sebastian Appler"
-  description = "Bilberry Premium Theme for Hugo."
+  description = "Applerworld"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
@@ -39,9 +39,9 @@ disqusShortname = ""
 
   # Enable / Disable algolia search
   algolia_search    = false
-  algolia_appId     = "45CEN6X6AT"
-  algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
-  algolia_indexName = "bilberry-hugo-theme"
+  algolia_appId     = ""
+  algolia_apiKey    = ""
+  algolia_indexName = ""
     # Set this option to false if you want to search within all articles in all languages at once
     algolia_currentLanguageOnly = false
 
@@ -60,7 +60,7 @@ disqusShortname = ""
     subtitle = "I like tech and interesting topics."
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = ""
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = "https://avatars.githubusercontent.com/u/13065474?s=400&u=175910c5e1387c9e810d703fd314cf4f4b2afedc&v=4"
@@ -119,15 +119,15 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://github.com/sebastianappler", icon = "fab fa-github" },
     ]
 
     # credits line configuration
     copyrightBy = "by Sebastian Appler"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2021"
-    copyrightUrl = "https://github.com/Lednerb"
-    creditsText = "Bilberry Hugo Theme"
+    copyrightUrl = "https://github.com/sebastianappler"
+    creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
