@@ -1,7 +1,7 @@
 +++
 title = "Why Emacs can become your favorite editor"
 date = 2021-03-06
-tags = ["emacs", "linux", "privacy", "open-source"]
+tags = ["emacs", "linux", "open-source"]
 categories = ["emacs"]
 draft = false
 author = "Sebastian Appler"

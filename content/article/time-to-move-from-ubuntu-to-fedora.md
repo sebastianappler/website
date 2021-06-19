@@ -1,7 +1,7 @@
 +++
 title = "Time to move from Ubuntu to Fedora"
 date = 2021-06-19
-tags = ["ubuntu", "fedora", "linux"]
+tags = ["ubuntu", "fedora", "linux", "open-source"]
 categories = ["linux"]
 draft = false
 author = "Sebastian Appler"

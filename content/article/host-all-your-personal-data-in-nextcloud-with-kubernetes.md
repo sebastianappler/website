@@ -1,7 +1,7 @@
 +++
 title = "Host all your data in Nextcloud with Kubernetes"
 date = 2021-03-21
-tags = ["nextcloud", "kubernetes", "guide", "privacy"]
+tags = ["nextcloud", "kubernetes", "guide", "open-source"]
 categories = ["nextcloud"]
 draft = false
 author = "Sebastian Appler"
