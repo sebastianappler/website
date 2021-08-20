@@ -11,7 +11,7 @@ It's happening a lot in alternative OS for Android. Promising distribution's suc
 interesting features with big focus on privacy and security. We also have [PureOS](https://www.pureos.net/) a pure linux distro that's not based on
 AOSP but tries to use desktop linux apps on the phone. For me it still not viable way as a daily driver. The major drawback
 is that even that they are interesting they are only supported for Pixel phones (or specific phones like Librem for PureOS).
-Who would have thought that Google phones would be the best option to deGoogle?
+Who would have thought that Google phones would be the best option to DeGoogle?
 
 What we can do is to use [LineageOS](https://lineageos.org/). It has support for an impressive amount of phones. LineageOS (successor of CyanogenMod)
 has support for an impressive 178 devices when I made a fast check on their [download page](https://download.lineageos.org/).
@@ -39,13 +39,14 @@ safe before proceeding.
 
 ### The bootloader can't be locked after installation {#the-bootloader-can-t-be-locked-after-installation}
 
-You cant lock the bootloader after installation except for on Pixel phones. Most of the concerns involves if some bad guy
-gets a physical hold of your phone. They can then boot into recovery mode and bypass security or launch a custom rom.
+You cant lock the bootloader after installation except for Pixel phones. Most of the concerns involves if the bad guy gets
+a physical hold of your phone. They can then boot into recovery mode and bypass security or launch a custom rom.
 
 But you can also consider the security risks to stay on an old Android version that will not get updates and can have known
-security vulnerabilities. Also the locking of bootloader is something that Google wants to have control to install apps
-that are impossible to remove such as browsers and Google Play Services. There is some security concerns altough you can
-ask what is safer in the long run.
+security vulnerabilities. Also the locking of bootloader is something that Google wants to have control of. They would probably
+not be happy if the users were unable to uninstall apps such as Chrome browser or Google Play Services.
+
+There is some security concerns although you can ask if it's safer to stay on unmaintained versions.
 
 
 ### Google Play Services and Google Apps {#google-play-services-and-google-apps}
@@ -80,7 +81,7 @@ Do not install apps that needs push notifications before these steps.
 
 1.  Open the system phone app and dial `*#*#2432546#*#*` to do a manual device registration
 2.  Open microG app and enable _Google Device Registration_ and reboot.
-3.  Open microG app and enable _Cloud Messagaging_ and reboot.
+3.  Open microG app and enable _Cloud Messaging_ and reboot.
 
 Now notifications should work and Google Device Registration/Cloud Messaging to be kept ON.
 
