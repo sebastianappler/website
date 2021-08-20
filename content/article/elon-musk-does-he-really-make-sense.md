@@ -1,8 +1,8 @@
 +++
 title = "Elon Musk - Does he really make sense?"
 date = 2021-03-09
-tags = ["elon-musk", "climate", "mars", "billionares"]
-categories = ["elon-musk"]
+tags = ["elon-musk", "climate"]
+categories = ["rant", "climate"]
 draft = false
 author = "Sebastian Appler"
 +++

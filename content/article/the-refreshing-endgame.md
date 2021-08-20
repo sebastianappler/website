@@ -1,7 +1,7 @@
 +++
 title = "The Refreshing Endgame"
 date = 2021-02-17T22:12:00+01:00
-tags = ["climate", "documentary", "humanity"]
+tags = ["climate", "documentary"]
 categories = ["climate"]
 draft = false
 author = "Sebastian Appler"

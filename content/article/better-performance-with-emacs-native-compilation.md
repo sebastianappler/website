@@ -1,8 +1,8 @@
 +++
 title = "Better performance with Emacs native compile"
 date = 2021-04-29
-tags = ["emacs", "guide"]
-categories = ["emacs"]
+tags = ["emacs", "linux", "guides"]
+categories = ["emacs", "linux", "guides"]
 draft = false
 author = "Sebastian Appler"
 +++
