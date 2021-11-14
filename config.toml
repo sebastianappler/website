@@ -57,7 +57,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "I like tech and interesting topics."
+    subtitle = "I like tech and interesting topics"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
