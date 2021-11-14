@@ -1,15 +1,13 @@
 update:
-	git pull origin master
 	git submodule foreach git pull
 
 build:
 	npm --prefix themes/bilberry-hugo-theme/ install
+	npm --prefix themes/bilberry-hugo-theme/ run production
 
-run:
+run: update build
 	hugo server
 
 deploy: update build 
-	npm --prefix themes/bilberry-hugo-theme/ run production
 	hugo
 	rsync -avz --delete public/ $(TARGET_DIR)
-		
